@@ -4,6 +4,8 @@ set shiftwidth=4
 set smarttab
 set smartindent
 
+set relativenumber
+
 set mouse=a
 
 syntax on
